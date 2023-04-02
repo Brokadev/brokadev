@@ -1,5 +1,5 @@
 ### Olá! Eu sou Mateus Brocatto 👦
-Olá, eu sou o Mateus e gostaria de compartilhar algumas palavras com vocês.
+E gostaria de compartilhar algumas palavras com vocês.
 
 Acredito que a vida é uma jornada de aprendizado constante, e que cada experiência pode nos ensinar algo valioso. Por isso, busco sempre estar aberto a novas ideias, perspectivas e oportunidades, e procuro fazer o meu melhor em tudo o que faço.
 
