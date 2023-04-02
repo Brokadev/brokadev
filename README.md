@@ -1,6 +1,9 @@
 ### Olá! Eu sou Mateus Brocatto 👦
- - 🌟 Atualmente em busca de uma oportunidade como desenvolvedor 
- - 💻 Cursando 4ºsemestre de Programação de Jogos Digitais 
+ - 🌟 Atualmente em busca de uma oportunidade de estagio como desenvolvedor 
+ - 💻 Cursando 4º semestre de Programação de Jogos Digitais 
+
+
+![mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=brokatto&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso na faculdade
 <div style = "display: inlne_block"><br/>
@@ -12,10 +15,13 @@
  <img aling = "center" alt="html5" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
  
  </div><br>
+ 
+ ## Objetivo
+ Tenho como objetivo me tornar um desenvolvedor
   
 
 
 
-![mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=brokatto&show_icons=true&theme=dracula)
+
 
 ##
