@@ -23,8 +23,7 @@
 ## Objetivo 
 Ingressar na área de desenvolvimento como programador, aplicando minhas habilidades e aprendizados em um ambiente profissional desafiador e contribuindo para a criação de soluções tecnológicas inovadoras. Sou dedicado, comprometido e sempre em busca de novos desafios e oportunidades de crescimento profissional.
 
+https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif
 
 
 
-
-Espero que vocês também se sintam motivados a buscar o seu próprio caminho, a perseguir seus sonhos e a descobrir o que faz o seu coração vibrar. A vida é curta demais para desperdiçarmos nosso tempo em coisas que não nos fazem felizes, então vamos aproveitar cada momento da melhor forma possível!
