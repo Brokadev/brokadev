@@ -25,7 +25,7 @@ Ingressar na área de desenvolvimento como programador, aplicando minhas habilid
 
 
 <p>
-  <img aling = "center" alt = "gif" src="https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
+  <img aling = "center" alt = "gif" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif">
 </p>
 
 
