@@ -23,7 +23,11 @@
 ## Objetivo 
 Ingressar na área de desenvolvimento como programador, aplicando minhas habilidades e aprendizados em um ambiente profissional desafiador e contribuindo para a criação de soluções tecnológicas inovadoras. Sou dedicado, comprometido e sempre em busca de novos desafios e oportunidades de crescimento profissional.
 
-https://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif
+
+<p>
+  <img aling = "center" alt="html5" src="ttps://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
+</p>
+h
 
 
 
