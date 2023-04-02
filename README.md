@@ -28,9 +28,10 @@ Ingressar na área de desenvolvimento como programador, aplicando minhas habilid
   <img aling = "center" alt = "gif" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif">
 </p>
 
-<div style = "display: inlne_block"><br/>
 [![hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mateus_brocatto@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-brocatto-83188a17a/)
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mateus.amaral.56/)
 
- </div><br>
+
 
 
