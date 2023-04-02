@@ -27,7 +27,7 @@ Ingressar na área de desenvolvimento como programador, aplicando minhas habilid
 <p>
   <img aling = "center" alt="html5" src="ttps://media.giphy.com/media/6heBQSjt2IoA8/giphy.gif">
 </p>
-h
+
 
 
 
