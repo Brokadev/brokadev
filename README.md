@@ -8,7 +8,6 @@ Tenho muitas paixões na vida, desde a música,series até a tecnologia, e adoro
 Espero que vocês também se sintam motivados a buscar o seu próprio caminho, a perseguir seus sonhos e a descobrir o que faz o seu coração vibrar. A vida é curta demais para desperdiçarmos nosso tempo em coisas que não nos fazem felizes, então vamos aproveitar cada momento da melhor forma possível!
 
 
-
  - 🌟 Atualmente em busca de uma oportunidade de estagio como desenvolvedor 
  - 💻 Cursando 4º semestre de Programação de Jogos Digitais 
 
@@ -27,9 +26,5 @@ Espero que vocês também se sintam motivados a buscar o seu próprio caminho, a
  </div><br>
  
  
-
-
-
-
-
-##
+## Objetivo 
+Ingressar na área de desenvolvimento como programador, aplicando minhas habilidades e aprendizados em um ambiente profissional desafiador e contribuindo para a criação de soluções tecnológicas inovadoras. Sou dedicado, comprometido e sempre em busca de novos desafios e oportunidades de crescimento profissional.
