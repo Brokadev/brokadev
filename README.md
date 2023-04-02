@@ -16,9 +16,13 @@
  
  </div><br>
  
- ## Objetivo
- Tenho como objetivo me tornar um desenvolvedor
-  
+ Olá, eu sou o Mateus e gostaria de compartilhar algumas palavras com vocês.
+
+Acredito que a vida é uma jornada de aprendizado constante, e que cada experiência pode nos ensinar algo valioso. Por isso, busco sempre estar aberto a novas ideias, perspectivas e oportunidades, e procuro fazer o meu melhor em tudo o que faço.
+
+Tenho muitas paixões na vida, desde a música até a tecnologia, e adoro aprender sobre diferentes assuntos e compartilhar conhecimentos com outras pessoas. Para mim, a vida é muito mais rica e interessante quando estamos em constante movimento, em busca de novas descobertas e aventuras.
+
+Espero que vocês também se sintam motivados a buscar o seu próprio caminho, a perseguir seus sonhos e a descobrir o que faz o seu coração vibrar. A vida é curta demais para desperdiçarmos nosso tempo em coisas que não nos fazem felizes, então vamos aproveitar cada momento da melhor forma possível!
 
 
 
