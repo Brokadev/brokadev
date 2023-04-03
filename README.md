@@ -4,7 +4,7 @@
  - 💻 Cursando 4º semestre de Programação de Jogos Digitais 
 
 
-![mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus&show_icons=true&theme=dracula)
+![mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mateus &show_icons=true&theme=dracula)
 
 ## Ferramentas que utilizo em meu estudos
 <div style = "display: inlne_block"><br/>
