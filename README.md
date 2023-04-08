@@ -33,6 +33,6 @@ Ingressar na área de desenvolvimento como programador, aplicando minhas habilid
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-brocatto-83188a17a/)
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mateus.amaral.56/)
 <br>
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Brokadev&repo=Brokadev&theme=react)](https://https://github.com/Brokadev/Brokadev/edit/main/README.md)
- 
+
+  ![Snake animation](https://github.com/Brokadev/Brokadev/blob/output/github-contribution-grid-snake.svg)
 
