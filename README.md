@@ -34,8 +34,7 @@ Ingressar na área de desenvolvimento como programador, aplicando minhas habilid
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mateus.amaral.56/)
 <br>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Brokadev
-&repo=Brokadev&theme=react)](https://github.com/Brokadev/Brokadev)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Brokadev&repo=Brokadev&theme=react)](https://github.com/Brokadev/Brokadev)
 
 
 
